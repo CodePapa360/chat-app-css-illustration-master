@@ -13,6 +13,7 @@ Users should be able to:
 ### Links
 
 - [Live Site URL](https://codepapa360.github.io/chat-app-css-illustration-master/)
+- [Solution URL](https://www.frontendmentor.io/solutions/beautiful-chat-app-css-illustration-G9lHp_ECUA)
 
 ### Screenshot
 
